@@ -56,7 +56,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://markslingerland.dev/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "a3516c391a978301217c40580c5355b1",
+    "revision": "7ed65b0de744d75d0f842481f05ac9a2",
     "url": "https://markslingerland.dev/index.html"
   },
   {
