@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://alexandramark.nl/CNAME"
   },
   {
-    "revision": "7111c4d4363752d0e78e",
+    "revision": "01727ebda9a002a0c2fa",
     "url": "https://alexandramark.nl/css/app.ed0a847e.css"
   },
   {
-    "revision": "f3b3c1aaf8d79238f2c2",
+    "revision": "8353f9e7e3ada424a4f9",
     "url": "https://alexandramark.nl/css/wedding.13657036.css"
   },
   {
@@ -52,20 +52,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://alexandramark.nl/img/logo.7f84c687.svg"
   },
   {
-    "revision": "e673ef71cb64eb8977f25b1d2361dcd3",
+    "revision": "b9d46beffff54fc9588a9b41e0055206",
     "url": "https://alexandramark.nl/index.html"
   },
   {
-    "revision": "7111c4d4363752d0e78e",
-    "url": "https://alexandramark.nl/js/app.48031bc6.js"
+    "revision": "01727ebda9a002a0c2fa",
+    "url": "https://alexandramark.nl/js/app.dc45a00b.js"
   },
   {
     "revision": "e664f3dc3fb382b5c842",
     "url": "https://alexandramark.nl/js/chunk-vendors.4f275f26.js"
   },
   {
-    "revision": "f3b3c1aaf8d79238f2c2",
-    "url": "https://alexandramark.nl/js/wedding.b965054a.js"
+    "revision": "8353f9e7e3ada424a4f9",
+    "url": "https://alexandramark.nl/js/wedding.5c7490bf.js"
   },
   {
     "revision": "2e14da14c68e3995d852b197accc58ef",
