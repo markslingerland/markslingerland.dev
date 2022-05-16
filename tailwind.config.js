@@ -1,6 +1,6 @@
 module.exports = {
   content: ["./src/**/*.{vue,js}"],
-  purge: [],
+  purge: false,
   darkMode: false,
   theme: {
     extend: {},

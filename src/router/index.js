@@ -26,10 +26,18 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "wedding" */ '../views/Wedding.vue'),
   },
+  {
+    path: '/wedding/:lang',
+    name: 'Wedding',
+    // route level code-splitting
+    // this generates a separate chunk (wedding.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "wedding" */ '../views/Wedding.vue'),
+  },
 ];
 
 const router = new VueRouter({
-  mode: 'history',
+  mode: 'hash',
   base: process.env.BASE_URL,
   routes,
 });

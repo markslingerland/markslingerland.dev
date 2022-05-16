@@ -64,6 +64,9 @@ export default {
     NavBar,
     InformUs,
   },
+  created() {
+    this.$i18n.locale = this.$route.params.lang;
+  },
 };
 </script>
 
