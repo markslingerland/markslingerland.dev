@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.74d42991e50f638ce2eaf57cd56badcb.js"
+  "https://markslingerland.dev/precache-manifest.21e9635a531aa872f932b1470b1a3f96.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "markslingerland.dev"});
