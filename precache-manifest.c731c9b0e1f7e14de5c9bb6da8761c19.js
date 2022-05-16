@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://markslingerland.dev/CNAME"
   },
   {
-    "revision": "ed20fc3c1d5f396d263a",
-    "url": "https://markslingerland.dev/css/app.8c2c165b.css"
+    "revision": "a95fa5eb98802dd5b91a",
+    "url": "https://markslingerland.dev/css/app.42f4e70b.css"
   },
   {
     "revision": "c0106ab67c6759c006c0",
@@ -56,7 +56,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://markslingerland.dev/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "e60ca24cf55de908c04816e6e594c446",
+    "revision": "1fc9c74f37301248d16451c95548e855",
     "url": "https://markslingerland.dev/index.html"
   },
   {
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://markslingerland.dev/js/about.df490ebc.js"
   },
   {
-    "revision": "ed20fc3c1d5f396d263a",
-    "url": "https://markslingerland.dev/js/app.8e70cb53.js"
+    "revision": "a95fa5eb98802dd5b91a",
+    "url": "https://markslingerland.dev/js/app.2178a6e6.js"
   },
   {
     "revision": "e664f3dc3fb382b5c842",
