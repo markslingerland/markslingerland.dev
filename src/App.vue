@@ -5,7 +5,7 @@
 </template>
 
 <style lang="scss">
-@import '../dist/output.css';
+@import './styles/output.css';
 
 #app {
   font-family: 'Source Sans Pro', sans-serif;

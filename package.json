@@ -12,9 +12,11 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "autoprefixer": "^9.8.8",
     "core-js": "^3.6.5",
     "dotenv": "^16.0.0",
     "mapbox-gl": "^2.8.2",
+    "postcss": "^7.0.39",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
     "vue-gtag": "^1.8.0",
@@ -40,7 +42,7 @@
     "gh-pages": "^3.1.0",
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.2",
-    "tailwindcss": "^3.0.24",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
     "vue-template-compiler": "^2.6.11"
   }
 }
