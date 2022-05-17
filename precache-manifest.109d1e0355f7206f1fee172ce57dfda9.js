@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://alexandramark.nl/CNAME"
   },
   {
-    "revision": "01727ebda9a002a0c2fa",
+    "revision": "e89cce995d238fc7fee3",
     "url": "https://alexandramark.nl/css/app.ed0a847e.css"
   },
   {
@@ -52,12 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://alexandramark.nl/img/logo.7f84c687.svg"
   },
   {
-    "revision": "b9d46beffff54fc9588a9b41e0055206",
+    "revision": "608b44c76a2db9aa9ceec9091169c3ed",
     "url": "https://alexandramark.nl/index.html"
   },
   {
-    "revision": "01727ebda9a002a0c2fa",
-    "url": "https://alexandramark.nl/js/app.dc45a00b.js"
+    "revision": "e89cce995d238fc7fee3",
+    "url": "https://alexandramark.nl/js/app.af26ae29.js"
   },
   {
     "revision": "e664f3dc3fb382b5c842",

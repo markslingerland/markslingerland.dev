@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://alexandramark.nl/precache-manifest.4545e3ac85a047e6bc7a85f05605574c.js"
+  "https://alexandramark.nl/precache-manifest.109d1e0355f7206f1fee172ce57dfda9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "markslingerland.dev"});
