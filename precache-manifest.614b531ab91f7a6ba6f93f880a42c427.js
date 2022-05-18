@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://alexandramark.nl/CNAME"
   },
   {
-    "revision": "e89cce995d238fc7fee3",
+    "revision": "9edfd0c9e271d1d02603",
     "url": "https://alexandramark.nl/css/app.ed0a847e.css"
   },
   {
-    "revision": "8353f9e7e3ada424a4f9",
+    "revision": "40baf784a661800fe866",
     "url": "https://alexandramark.nl/css/wedding.13657036.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://alexandramark.nl/img/banner.d3f60193.png"
   },
   {
-    "revision": "402b92ff9eda59275e4c8737f262f37f",
-    "url": "https://alexandramark.nl/img/card_en.402b92ff.png"
+    "revision": "80d9fed2fad94f8f3eda5b15a415829a",
+    "url": "https://alexandramark.nl/img/card_en.80d9fed2.png"
   },
   {
-    "revision": "57f4bcc4ffb8f5ccad3d89deb3d09f98",
-    "url": "https://alexandramark.nl/img/card_nl.57f4bcc4.png"
+    "revision": "d7efbd8de541f89167d57087f9dc03cd",
+    "url": "https://alexandramark.nl/img/card_nl.d7efbd8d.png"
   },
   {
-    "revision": "402b92ff9eda59275e4c8737f262f37f",
-    "url": "https://alexandramark.nl/img/card_pl.402b92ff.png"
+    "revision": "9032288c0b92d0aae54bc8fdf006d724",
+    "url": "https://alexandramark.nl/img/card_pl.9032288c.png"
   },
   {
     "revision": "85fea88a5be9315d8328488a48dd2ce1",
@@ -52,20 +52,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://alexandramark.nl/img/logo.7f84c687.svg"
   },
   {
-    "revision": "608b44c76a2db9aa9ceec9091169c3ed",
+    "revision": "772928c83bf8dc486d78f17fe52c22ad",
     "url": "https://alexandramark.nl/index.html"
   },
   {
-    "revision": "e89cce995d238fc7fee3",
-    "url": "https://alexandramark.nl/js/app.af26ae29.js"
+    "revision": "9edfd0c9e271d1d02603",
+    "url": "https://alexandramark.nl/js/app.70615021.js"
   },
   {
     "revision": "e664f3dc3fb382b5c842",
     "url": "https://alexandramark.nl/js/chunk-vendors.4f275f26.js"
   },
   {
-    "revision": "8353f9e7e3ada424a4f9",
-    "url": "https://alexandramark.nl/js/wedding.5c7490bf.js"
+    "revision": "40baf784a661800fe866",
+    "url": "https://alexandramark.nl/js/wedding.86c735fb.js"
   },
   {
     "revision": "2e14da14c68e3995d852b197accc58ef",
