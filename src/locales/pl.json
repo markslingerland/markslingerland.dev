@@ -1,9 +1,13 @@
 {
-    "WE_ARE_MARRYING": "Wij gaan trouwen en zouden het super leuk vinden als je ook komt. Laat het ons even weten.",
-    "LET_US_KNOW": "Reageer hier",
-    "MORE_INFORMATION": "Meer informatie",
-    "DRESS_CODE": "De stijl van de bruiloft is ‘Formeel’. Als je liever semi-formeel wilt komen, is dit geen probleem. We vragen je alleen om het classy te houden :)",
-    "COLOR_CODE": "Dit zal het kleuren thema worden. Het is niet verplicht om je eraan te houden maar het zou wel leuk zijn.",
-    "GIFT_IDEA": "Je aanwezigheid op onze bruiloft is voor ons al een gift. Mocht je toch wat willen geven, dan accepteren we met blijdschap een contributie voor onze huwelijksreis.",
-    "ACCOMODATION_INFORMATION": "Het is mogelijk om op de trouwlocatie een overnachting te boeken.Kosten accommodatie op locatie inclusief ontbijt Per person, per night: 145 zł ongeveer € 31,50  In een kamer kunnen 2 personen met de mogelijkheid voor een extra bed. Prijs voor extra bed (inclusief ontbijt): 120 zł ongeveer € 26,-  Kinderen t/m 3 jaar zijn gratis(bij ouders in het bed)"
-  }
+  "WE_ARE_MARRYING": "Mamy zaszczyt zaprosić Szanownych Państwa na uroczystość zawarcia związku małżeńskiego. Uprzejmie prosimy o potwierdzenie swojego przybycia.",
+  "LET_US_KNOW": "Zareaguj tutaj",
+  "MORE_INFORMATION": "Wiecej informacji",
+  "DRESS_CODE": "Obowiązuje strój wizytowy. Ale można odstąpić od tej reguły. Ubierz się tylko z klasą :)",
+  "COLOR_CODE": "Oto wiodące kolory naszego ślubu. Oczywiście ubiór w tych kolorach nie jest obowiązkowy, ale byłoby nam miło",
+  "GIFT_IDEA": "Będziemy zaszczyceni Twoją obecnością. Jeżeli chcesz nam coś podarować, wesprzyj nas w zorganizowaniu podróży poślubnej",
+  "ACCOMODATION_INFORMATION": "Jest możliwość zarezerwowania noclegu w miejscu przyjęcia weselnego.{0}{0}Cena za nocleg na miejscu{0}ze śniadaniem{0}{0}jedna osoba, za noc:{0}145 zł{0}{0}Jeden pokój mieści 2 osoby z możliwością jednej dostawki.{0}{0}Cena dostawki (ze śniadaniem): {0}120 zł{0}{0}Dzieci do lat 3 są bezpłatne{0}(śpiją z rodzicami w łóżku)",
+  "FURTHER_CONTACT": "W razie pytań prosimy o kontakt:",
+  "PERSONS_TO_CONTACT": "Renate albo Roxana",
+  "LOCATION": "Lokacja",
+  "RSVP_URL": "https://forms.gle/6ReCot4YXSmoT5XF9"
+}

@@ -65,7 +65,7 @@ export default {
     InformUs,
   },
   created() {
-    this.$i18n.locale = this.$route.params.lang;
+    this.$i18n.locale = this.$route.params.lang || 'nl';
   },
 };
 </script>

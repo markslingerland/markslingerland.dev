@@ -5,5 +5,9 @@
     "DRESS_CODE": "The style of the wedding will be Formal. If you wish to come semi-formal, this is not a problem. We only ask you to keep it classy :)",
     "COLOR_CODE": "This will be our color theme. Of course it’s not mandatory to follow, but it would be nice.",
     "GIFT_IDEA": "Your presence at our wedding is the greatest gift of all. However, if you wish to give, we will gratefully accept a contribution towards our honeymoon.",
-    "ACCOMODATION_INFORMATION": "It’s possible to book an overnight stay at the site of the wedding venueCosts accommodation on sitebreakfast included Per person, per night: 145 zł ongeveer € 31,50  One room fits 2 persons with the possibility of one extra bed. Price extra bed (breakfast included): 120 zł ongeveer € 26,-  Childeren up to 3 years old are free(with parents in bed)"
+    "ACCOMODATION_INFORMATION": "It’s possible to book an overnight stay at the site of the wedding venue{0}{0}Costs accommodation on site{0}breakfast included{0}{0}Per person, per night:{0}145 zł around € 31,50{0}{0}One room fits 2 persons with the possibility of one extra bed.{0}{0}Price extra bed (breakfast included):{0}120 zł around € 26,-{0}{0}Childeren up to 3 years old are free{0}(with parents in bed)",
+    "FURTHER_CONTACT": "If you have questions, please contact:",
+    "PERSONS_TO_CONTACT": "Renate or Roxana",
+    "LOCATION": "Location",
+    "RSVP_URL": "https://forms.gle/SgEam72eVrhi5SUs9"
   }

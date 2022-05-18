@@ -5,8 +5,9 @@
   "DRESS_CODE": "De stijl van de bruiloft is ‘Formeel’. Als je liever semi-formeel wilt komen, is dit geen probleem. We vragen je alleen om het classy te houden :)",
   "COLOR_CODE": "Dit zal het kleuren thema worden. Het is niet verplicht om je eraan te houden maar het zou wel leuk zijn.",
   "GIFT_IDEA": "Je aanwezigheid op onze bruiloft is voor ons al een gift. Mocht je toch wat willen geven, dan accepteren we met blijdschap een contributie voor onze huwelijksreis.",
-  "ACCOMODATION_INFORMATION": "Het is mogelijk om op de trouwlocatie een overnachting te boeken.{0}{0}Kosten accommodatie op locatie inclusief ontbijt per persoon, per nacht:{0}145 zł ongeveer € 31,50{0}{0}In een kamer kunnen 2 personen met de mogelijkheid voor een extra bed.{0}{0}Prijs voor extra bed (inclusief ontbijt): {0}120 zł ongeveer € 26,-{0}{0}Kinderen t/m 3 jaar zijn gratis{0}(bij ouders in het bed)",
+  "ACCOMODATION_INFORMATION": "Het is mogelijk om op de trouwlocatie een overnachting te boeken.{0}{0}Kosten accommodatie op locatie{0}inclusief ontbijt{0}{0}per persoon, per nacht:{0}145 zł ongeveer € 31,50{0}{0}In een kamer kunnen 2 personen met de mogelijkheid voor een extra bed.{0}{0}Prijs voor extra bed (inclusief ontbijt): {0}120 zł ongeveer € 26,-{0}{0}Kinderen t/m 3 jaar zijn gratis{0}(bij ouders in het bed)",
   "FURTHER_CONTACT": "Heb je nog vragen neem contact op met:",
   "PERSONS_TO_CONTACT": "Renate of Roxana",
-  "LOCATION": "Locatie"
+  "LOCATION": "Locatie",
+  "RSVP_URL": "https://forms.gle/n4HRZxzYE7jMHHzW8"
 }
